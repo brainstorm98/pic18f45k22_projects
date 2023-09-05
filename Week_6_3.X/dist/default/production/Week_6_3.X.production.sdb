@@ -1,0 +1,117 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F45K22 ]
+[d frameptr 4065 ]
+"4 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"23 D:\Kariyer\Kontrol ve Otomasyon Mühendisliði\4) 2022-2023 Bahar Dönemi\Mikrokontrolörler Ve Endüstriyel Uygulamalarý 1 (KOM3722)\Proje Dosyalarý\2023\Week_6_3.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+"56
+[v _isr isr `IIH(v  1 e 1 0 ]
+"52 C:/Program Files/Microchip/MPLABX/v6.05/packs/Microchip/PIC18F-K_DFP/1.7.134/xc8\pic\include\proc\pic18f45k22.h
+[v _ANSELA ANSELA `VEuc  1 e 1 @3896 ]
+"198
+[v _ANSELD ANSELD `VEuc  1 e 1 @3899 ]
+"260
+[v _ANSELE ANSELE `VEuc  1 e 1 @3900 ]
+"6280
+[v _PORTA PORTA `VEuc  1 e 1 @3968 ]
+"7142
+[v _PORTD PORTD `VEuc  1 e 1 @3971 ]
+"8060
+[v _TRISA TRISA `VEuc  1 e 1 @3986 ]
+"8726
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"8948
+[v _TRISE TRISE `VEuc  1 e 1 @3990 ]
+"13438
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @4032 ]
+"13509
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"13577
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+"13709
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"13729
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"16095
+[v _T0CON T0CON `VEuc  1 e 1 @4053 ]
+"16172
+[v _TMR0L TMR0L `VEuc  1 e 1 @4054 ]
+"18455
+[v _GIE GIE `VEb  1 e 0 @32663 ]
+"18470
+[v _GODONE GODONE `VEb  1 e 0 @32273 ]
+"20249
+[v _TMR0IE TMR0IE `VEb  1 e 0 @32661 ]
+"20252
+[v _TMR0IF TMR0IF `VEb  1 e 0 @32658 ]
+"20255
+[v _TMR0IP TMR0IP `VEb  1 e 0 @32650 ]
+"18 D:\Kariyer\Kontrol ve Otomasyon Mühendisliði\4) 2022-2023 Bahar Dönemi\Mikrokontrolörler Ve Endüstriyel Uygulamalarý 1 (KOM3722)\Proje Dosyalarý\2023\Week_6_3.X\newmain.c
+[v _seg_char seg_char `[10]uc  1 e 10 0 ]
+"19
+[v _value value `ui  1 e 2 0 ]
+"20
+[v _digits digits `[10]uc  1 e 10 0 ]
+"21
+[v _digit_counter digit_counter `uc  1 e 1 0 ]
+"23
+[v _main main `(v  1 e 1 0 ]
+{
+"54
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\lwmod.c
+[v ___lwmod __lwmod `(ui  1 e 2 0 ]
+{
+"10
+[v ___lwmod@counter counter `uc  1 a 1 8 ]
+"7
+[v ___lwmod@dividend dividend `ui  1 p 2 4 ]
+[v ___lwmod@divisor divisor `ui  1 p 2 6 ]
+"25
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\lwdiv.c
+[v ___lwdiv __lwdiv `(ui  1 e 2 0 ]
+{
+"10
+[v ___lwdiv@quotient quotient `ui  1 a 2 13 ]
+"11
+[v ___lwdiv@counter counter `uc  1 a 1 15 ]
+"7
+[v ___lwdiv@dividend dividend `ui  1 p 2 9 ]
+[v ___lwdiv@divisor divisor `ui  1 p 2 11 ]
+"30
+} 0
+"56 D:\Kariyer\Kontrol ve Otomasyon Mühendisliði\4) 2022-2023 Bahar Dönemi\Mikrokontrolörler Ve Endüstriyel Uygulamalarý 1 (KOM3722)\Proje Dosyalarý\2023\Week_6_3.X\newmain.c
+[v _isr isr `IIH(v  1 e 1 0 ]
+{
+"68
+} 0
